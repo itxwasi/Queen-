@@ -17,9 +17,9 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.scan = "https://suhail-md-g1y0.onrender.com/";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/Itxxwasi/WASI-BOT";
-global.gurl = process.env.GURL  || "https://chat.whatsapp.com/IeLtUn3KvIL18tjWSij9Mo";
-global.website =process.env.GURL|| "https://chat.whatsapp.com/IeLtUn3KvIL18tjWSij9Mo" ; 
-global.THUMB_IMAGE=process.env.THUMB_IMAGE|| "https://i.imgur.com/6wLZehj.jpeg" ; // SET LOGO FOR IMAGE 
+global.gurl = process.env.GURL  || "https://chat.whatsapp.com/FsmyfqfVlgJ6cwGY1Yeseq";
+global.website =process.env.GURL|| "https://chat.whatsapp.com/FsmyfqfVlgJ6cwGY1Yeseq" ; 
+global.THUMB_IMAGE=process.env.THUMB_IMAGE|| "https://i.imgur.com/8aW7mR0.jpeg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -36,12 +36,12 @@ module.exports = {
   HANDLERS:process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH  || "main",
   VERSION:process.env.VERSION || "v.1.2.7",
-  caption:process.env.CAPTION || "©𝙒𝘼𝙎𝙄-𝙈𝘿" , // ```『 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙒𝘼𝙎𝙄-𝙏𝙀𝘾𝙃 』```", //*『𝙎𝙐𝘽𝘾𝙍𝙄𝘽𝙀 𝙒𝘼𝙎𝙄𝙏𝙀𝘾𝙃 𝙊𝙉 𝙔𝙏』*\n youtube.com/@wasitech1"),
+  caption:process.env.CAPTION || "©𝑨𝑵𝑺𝑯𝑼𝑼" , // ```『 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙒𝘼𝙎𝙄-𝙏𝙀𝘾𝙃 』```", //*『𝙎𝙐𝘽𝘾𝙍𝙄𝘽𝙀 𝙒𝘼𝙎𝙄𝙏𝙀𝘾𝙃 𝙊𝙉 𝙔𝙏』*\n youtube.com/@wasitech1"),
 
  
   author: process.env.PACK_AUTHER || "𝙒𝘼𝙎𝙄",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "𝙒𝘼𝙎𝙄-𝙏𝙀𝘾𝙃",
+  botname : process.env.BOT_NAME  || "𝑨𝑵𝑺𝑯𝑼𝑼 ",
   ownername:process.env.OWNER_NAME|| "𝙄𝙏𝙓-𝙒𝘼𝙎𝙄",
 
 
