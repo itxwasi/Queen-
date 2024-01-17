@@ -36,13 +36,13 @@ module.exports = {
   HANDLERS:process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH  || "main",
   VERSION:process.env.VERSION || "v.1.2.7",
-  caption:process.env.CAPTION || "©𝕄𝕆𝕆ℕ𝕃𝕀𝔾ℍ𝕋📍😇" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption:process.env.CAPTION || "©𝐀𝐍𝐒𝐇𝐔📍😇" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
 
  
   author: process.env.PACK_AUTHER || "𝕎𝕒𝕤𝕚",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "𝕄𝕆𝕆ℕ𝕃𝕀𝔾ℍ𝕋",
-  ownername:process.env.OWNER_NAME|| "It'x Suhail",
+  botname : process.env.BOT_NAME  || "𝐀𝐍𝐒𝐇𝐔 𝐆",
+  ownername:process.env.OWNER_NAME|| "𝐈𝐭𝐱 𝐰𝐚𝐬𝐢",
 
 
   sessionName:process.env.SESSION_ID|| "",  // PUT SESSION ID HERE 
